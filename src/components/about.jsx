@@ -12,7 +12,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    <p>I am a Cell Biology major at the Uniersity of California at Davis and I have a huge love for computer science, espcially at its intersection with biology.</p>
+                    <p>I am a Cell Biology major at the University of California at Davis and I have a huge love for computer science, espcially at its intersection with biology.</p>
                     </div>
                 </div>
                 </div>
@@ -32,7 +32,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-computer" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
                     <h3>Coding </h3>
@@ -43,7 +43,7 @@ export default class About extends Component {
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-cell" />
+                    <i className="icon-pencil" />
                 </span>
                 <div className="desc">
                     <h3>Cellular Biology</h3>
